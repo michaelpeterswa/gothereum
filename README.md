@@ -1,2 +1,2 @@
-# go-start
-A template repository for Go projects
+# gothereum
+A CLI tool for tracking Ethereum balance within a wallet address.
